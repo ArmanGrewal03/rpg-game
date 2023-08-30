@@ -15,18 +15,21 @@ A very simple text RPG built using HTML, CSS, and Javascript
 
 ## Features
 
-- Implements coinmarketcap.com API to get the latest prices on cryptocurrencies.
-- Uses Recycler View to present all cryptos in a list.
-- Features a search bar to filter through the long list of cryptos.
-- Button toggle allows users to add crypto to their watchlist on a separate tab.
-- Watchlist is implemented using SQLite for data storage.
+- Implements HTML and CSS to devlope the user interface.
+- Javascript handles the game mechanics.
+- Game uses gold as currency.
+- Player has health.
+- Needs to kill monsters in order to gain XP and gold.
+- More XP means more damage to monsters when attaking.
+- Use gold to buy better weapons and health.
+- Loose game if you loose health.
+- Win game if you beat dragon.
 
 ## Usage
 
-- The "All Coins" tab presents all the available cryptocurrencies.
-- To add a crypto to your watchlist, simply click the "+watchlist" toggle on the cryptocurrency.
-- To view your watchlist, restart the app and go to the watchlist tab.
-- To search for a specific cryptocurrency, use the search bar at the top.
+- To play this game simply follow what the text says
+- Must make decisions using the buttons available to player
+- Buttons will naviagate player through the game.
 
 ## Installation
 
@@ -35,19 +38,19 @@ To get started, follow these steps:
 1. **Clone the Repository:**
    Clone this repository to your local machine.
 
-2. **Install Android Studio:**
-   Make sure you have Android Studio installed.
+2. **Install VScode:**
+   Make sure you have VScode installed.
 
 3. **Open Project:**
-   Open the project in Android Studio and locate the folder where the repository is cloned. Select the project folder.
+   Open the project in VScode and locate the folder where the repository is cloned. Select the project folder.
 
-4. **Sync Project:**
-   Let Android Studio sync the project and download any necessary dependencies.
+4. **Install Live Server Extension in VScode:**
+   Go to extensions, and install Live Server by Ritwick Dey. 
 
-5. **Connect Device or Emulator:**
-   Connect an Android device to your computer or set up an emulator to test the application.
+5. **Launch Live Server:**
+   Launch live server by clicking "Go Live" in the bottom right corner. 
 
-6. **Build and Run:**
-   Build and run the project by clicking the "Run" button in Android Studio or using the shortcut (usually Shift + F10).
+6. **Play Game:**
+   Follow prompts on screen. 
 
 
