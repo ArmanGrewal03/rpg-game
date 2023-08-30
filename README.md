@@ -1,10 +1,10 @@
+
 # Text RPG (game)
 
 A very simple text RPG built using HTML, CSS, and Javascript
 
 <div align="centeAr">
-  <img src="https://github.com/ArmanGrewal03/Crypto_Price_Tracker/assets/143025874/9f7cb08f-81c6-41ad-980a-a123845a546e" alt="Screenshot 1" width="300">
-  <img src="https://github.com/ArmanGrewal03/Crypto_Price_Tracker/assets/143025874/280fdfc7-7f05-4fbb-ae64-4e81dccbc4cc" alt="Screenshot 2" width="300">
+  <img width="1901" alt="Screen Shot 2023-08-30 at 1 37 47 AM" src="https://github.com/ArmanGrewal03/rpg-game/assets/143025874/b4a9915c-9caa-4943-b824-0d56648d2f80">
 </div>
 
 ## Table of Contents
